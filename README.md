@@ -9,9 +9,9 @@ This Git repository is an experiment to generate one Markdown file (similar to
 what is done in [iterata-md](https://github.com/hypered/iterata-md)) for one
 example legislative text, and doing it again for all its archived versions.
 
-Each version of one text is recorded in a separate commit. This lets us have a
-better idea of what Git can offer, including existing the GitHub interface to
-explore the different versions.
+Each version is recorded in a separate commit. This lets us have a better idea
+of what Git can offer, including using the GitHub interface to explore the
+different versions.
 
 # Exploring on GitHub
 
